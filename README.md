@@ -38,7 +38,7 @@ MadumLab est un utilitaire Windows léger développé en Python/PySide6 qui regr
 
 MadumLab est distribué sous **licence propriétaire** : voir le fichier [`LICENSE`](LICENSE).  
 Pour toute demande de modification ou de commercialisation, merci de me contacter à  
-**contact@madum.com** ou via **https://www.madum.com**.
+**marin.dumont@gmail.com** ou via **https://www.madum.top**.
 
 ---
 
