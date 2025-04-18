@@ -1,5 +1,4 @@
 # MadumLab
-# MadumLab
 
 MadumLab est un utilitaire Windows léger développé en Python/PySide6 qui regroupe deux modules :
 
